@@ -1,2 +1,2 @@
 # Minispielkonsole
-Kai Mießner, Max Sawade, Moritz Schiele, Len Müller
+ von Kai Mießner, Max Sawade, Moritz Schiele und Len Müller
